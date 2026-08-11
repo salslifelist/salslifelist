@@ -1,76 +1,67 @@
-# 💫 About Me:
-Applied AI/ML engineer with a background in English Language and Linguistics, which turned out to be surprisingly useful - it shaped how I think about patterns, ambiguity and how models handle real-world problems.
+# 💫 About Me
 
-I tend to focus on end-to-end systems, building pipelines, APIs and evaluation frameworks so you can actually tell whether something works in practice.
+I’m completing an MSc in Data Science and AI after a career in operational management, quality assurance and regulated services.
 
-My current interest is in automated software sustainability assessment.  I'm looking at whether structural properties of code (like algorithmic complexity) can act as reliable proxies for efficiency and maintainability at scale. Alongside this, I work on NLP projects such as document classification, named entity recognition, sentiment analysis and I have applied computer vision techniques using YOLO for object detection tasks. <br><br>
+I’m interested in practical AI implementation:
+- understanding where AI can improve a workflows,
+- building and testing useful tools,
+- keeping human judgement, evidence and the limitations of AI visible.
 
+My current work focuses on software sustainability, maintainability and responsible AI-assisted workflows. I also have project experience in machine learning, computer vision and natural language processing.
 
-🛠 **I’m currently working on**:
+My background in English Language and Linguistics continues to influence how I think about language, ambiguity, communication and the way people interact with technology.
 
-A machine learning framework for assessing software sustainability, combining:
+<br>
 
-Big-O complexity classification (Random Forest)
+## 🛠 Current Projects
 
-Cyclomatic complexity analysis
+### [CodeSage](https://github.com/salslifelist/codesage)
 
-Maintainability indicators
+An AI-assisted Python maintainability coach built as a solo project for **OpenAI Build Week**.
 
-All brought together into a calibrated composite score, benchmarked against Apache open-source repositories.<br><br>
+CodeSage brings together deterministic static code analysis with optional AI explanation and targeted refactoring. Rather than relying on the models analysis, it measures code first, bases AI responses in those measurements, checks proposed changes independently and keeps the limitations of static analysis explicit.
 
+The project was developed within a hackathon timeframe, so the focus was on building and testing a useful, bounded prototype. This is not a fully mature developer product.
 
-👥 **I’m looking to collaborate on**
+### Software Sustainability Assessment - MSc Capstone Project
 
-Projects where interpretable models are created to work in real environments and not just perform well on a dataset.
+I’m developing a Python-based framework exploring how static indicators in source code can contribute to the assessment of software efficiency, sustainability and maintainability.
 
-I'm particularly interested in:
+The project includes source code analysis at repository scale, computational and structural complexity indicators, sustainability scoring, validation and documentation. It has also involved substantial methodology refinement as the research developed.
 
--Applied NLP
+<br>
 
--Interpretable ML
+## 🌱 Areas I’m Interested In
 
--Systems that connect modelling with decision-making<br><br>
+- Practical and responsible AI implementation
+- Human-AI workflows and decision support
+- Software sustainability and responsible technology
+- Data analysis and decision making based on qualitative evidence
+- AI evaluation, limitations and governance
 
+<br>
 
-💬 Ask me about:
+## 🌐 Socials
 
-- Big-O classification and its limitations
-
-- SHAP and model explainability in practice
-
-- Building ML pipelines with APIs (FastAPI, etc.)
-
-- The overlap between computational linguistics and software analysis<br><br>
-
-⚡ Fun fact:
-
-In addition to data science, I have a background in English Language and Linguistics, which inspires my interest in NLP and the ways technology can intersect with human expression and storytelling.<br><br>
-
-
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salomebennett/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/salomebennett) <br><br>
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/salomebennett)
 
+<br>
 
-# 💻 Tech Stack:
+# 💻 Tools & Technologies
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge)
-![SHAP](https://img.shields.io/badge/SHAP-FF6F00?style=for-the-badge)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) <br><br>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=salslifelist&theme=catppuccin_latte&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=salslifelist&theme=catppuccin_latte&hide_border=false)<br/>
+<br>
+
+# 📊 GitHub
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=salslifelist&theme=catppuccin_latte&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<br><br>
----
-[![](https://visitcount.itsvg.in/api?id=salslifelist&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
